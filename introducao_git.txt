@@ -1,0 +1,4 @@
+Git init
+git status
+git clone
+git add .
