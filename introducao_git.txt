@@ -2,3 +2,5 @@ Git init
 git status
 git clone
 git add .
+git commit -m "comentario"
+git push origin main
